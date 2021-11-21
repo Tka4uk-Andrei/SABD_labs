@@ -1,0 +1,17 @@
+<employees>
+  <employee id="0001">
+    <firstName>Ivan</firstName>
+    <lastName>Ivanov</lastName>
+    <location>Russia</location>
+  </employee>
+  <employee id="1959">
+    <firstName>Nikolai</firstName>
+    <lastName>Brusentsov</lastName>
+    <location>Russia</location>
+  </employee>
+  <employee id="555">
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <location>USA</location>
+  </employee>
+</employees>
